@@ -29,7 +29,7 @@
 	// Do any additional setup after loading the view.
     
     
-    // Load a image from the bundle
+    // Load a image from the bundle and add to view
     
     UIImage *image = [UIImage imageNamed:@"testlibrary.bundle/CloseButton@2x.png"];
     UIImageView *imageView = [[UIImageView alloc] initWithImage:image];
